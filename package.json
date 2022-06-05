@@ -1,11 +1,10 @@
 {
-  "name": "nextron",
+  "name": "niteshbalusu-nextron",
   "version": "8.1.0",
   "description": "⚡ NEXT.js + Electron ⚡",
-  "repository": "git@github.com:saltyshiomix/nextron.git",
-  "author": "Shiono Yoshihide <shiono.yoshihide@gmail.com>",
+  "author": "Nitesh Balusu",
   "license": "MIT",
-  "homepage": "https://github.com/saltyshiomix/nextron",
+  "homepage": "https://github.com/niteshbalusu11/niteshbalusu-nextron",
   "keywords": [
     "electron",
     "next",
@@ -16,10 +15,6 @@
     "react.js",
     "nextron"
   ],
-  "bugs": {
-    "url": "https://github.com/saltyshiomix/nextron/issues",
-    "email": "shiono.yoshihide@gmail.com"
-  },
   "files": [
     "bin",
     "babel.js"
