@@ -50,7 +50,7 @@ if (args["--help"]) {
       --ia32         builds for ia32
       --armv7l       builds for armv7l
       --arm64        builds for arm64
-      --no-pack      skip electron-builder pack command
+      --nopack      skip electron-builder pack command
       --publish  -p  Publish artifacts (see https://goo.gl/tSFycD)
                      [choices: "onTag", "onTagOrDraft", "always", "never", undefined]
 
